@@ -12,7 +12,6 @@ public class SubstringComparisonsLexicographicalOrder {
         scan.close();
 
         System.out.println(getSmallestAndLargest(s, k));
-
     }
 
     public static String getSmallestAndLargest(String s, int k) {
